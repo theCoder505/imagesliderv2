@@ -17,6 +17,7 @@
 .image {
     width: 100%;
     padding-top: calc(100% / (1903/835));
+    background-image: url("stunning.png");
     background-image: url("image.jpg");
     background-size: 100%;
     background-position: center;
